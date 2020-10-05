@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19534" started-at="2020-10-05T15:57:52 BRT" finished-at="2020-10-05T15:58:12 BRT">
+    <groups>
+    </groups>
+    <test name="Validating Navigation Bar" duration-ms="9988" started-at="2020-10-05T15:57:52 BRT" finished-at="2020-10-05T15:58:02 BRT">
+      <class name="tests.ValidateNavigationBarTest">
+        <test-method status="PASS" signature="inicialize()[pri:0, instance:tests.ValidateNavigationBarTest@1a245833]" name="inicialize" is-config="true" duration-ms="7726" started-at="2020-10-05T15:57:52 BRT" finished-at="2020-10-05T15:58:00 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inicialize -->
+        <test-method status="PASS" signature="navigationBar()[pri:0, instance:tests.ValidateNavigationBarTest@1a245833]" name="navigationBar" duration-ms="1605" started-at="2020-10-05T15:58:00 BRT" finished-at="2020-10-05T15:58:02 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationBar -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ValidateNavigationBarTest@1a245833]" name="quitBrowser" is-config="true" duration-ms="645" started-at="2020-10-05T15:58:02 BRT" finished-at="2020-10-05T15:58:02 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.ValidateNavigationBarTest -->
+    </test> <!-- Validating Navigation Bar -->
+    <test name="Validanting Title Featured Courses" duration-ms="13359" started-at="2020-10-05T15:57:52 BRT" finished-at="2020-10-05T15:58:06 BRT">
+      <class name="tests.ValidateTitleTest">
+        <test-method status="PASS" signature="inicialize()[pri:0, instance:tests.ValidateTitleTest@6b695b06]" name="inicialize" is-config="true" duration-ms="7689" started-at="2020-10-05T15:57:52 BRT" finished-at="2020-10-05T15:58:00 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inicialize -->
+        <test-method status="PASS" signature="checkHeader()[pri:0, instance:tests.ValidateTitleTest@6b695b06]" name="checkHeader" duration-ms="5015" started-at="2020-10-05T15:58:00 BRT" finished-at="2020-10-05T15:58:05 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHeader -->
+        <test-method status="PASS" signature="checkTitle()[pri:0, instance:tests.ValidateTitleTest@6b695b06]" name="checkTitle" duration-ms="28" started-at="2020-10-05T15:58:05 BRT" finished-at="2020-10-05T15:58:05 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.ValidateTitleTest@6b695b06]" name="quitBrowser" is-config="true" duration-ms="623" started-at="2020-10-05T15:58:05 BRT" finished-at="2020-10-05T15:58:06 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.ValidateTitleTest -->
+    </test> <!-- Validanting Title Featured Courses -->
+    <test name="Validating landing and login" duration-ms="19534" started-at="2020-10-05T15:57:52 BRT" finished-at="2020-10-05T15:58:12 BRT">
+      <class name="tests.HomeTest">
+        <test-method status="PASS" signature="inicialize()[pri:0, instance:tests.HomeTest@6d60fe40]" name="inicialize" is-config="true" duration-ms="5991" started-at="2020-10-05T15:57:52 BRT" finished-at="2020-10-05T15:57:58 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inicialize -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:tests.HomeTest@6d60fe40]" name="basePageNavigation" duration-ms="12858" started-at="2020-10-05T15:57:59 BRT" data-provider="getData" finished-at="2020-10-05T15:58:11 BRT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@automation.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123*&65]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="quitBroswer()[pri:0, instance:tests.HomeTest@6d60fe40]" name="quitBroswer" is-config="true" duration-ms="635" started-at="2020-10-05T15:58:11 BRT" finished-at="2020-10-05T15:58:12 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBroswer -->
+      </class> <!-- tests.HomeTest -->
+    </test> <!-- Validating landing and login -->
+  </suite> <!-- Suite -->
+</testng-results>

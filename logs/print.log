@@ -1,0 +1,7 @@
+2020-10-05 15:57:59,017 INFO r.Start [TestNG-tests-3] Driver is inicialized
+2020-10-05 15:58:00,643 INFO r.Start [TestNG-tests-1] Navigated to Home page
+2020-10-05 15:58:00,683 INFO r.Start [TestNG-tests-2] Navigated to Home page
+2020-10-05 15:58:00,720 INFO r.Start [TestNG-tests-3] Navigated to Home page
+2020-10-05 15:58:02,326 INFO r.Start [TestNG-tests-3] Navigation bar is displayed
+2020-10-05 15:58:05,699 INFO r.Start [TestNG-tests-2] Successfully validated text message
+2020-10-05 15:58:05,728 INFO r.Start [TestNG-tests-2] Successfully validated text message

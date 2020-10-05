@@ -1,0 +1,8 @@
+tests\ValidateTitleTest.class
+tests\HomeTest.class
+pages\LoginPage.class
+pages\LandingPage.class
+resources\Start.class
+resources\Listeners.class
+resources\ExtentReport.class
+tests\ValidateNavigationBarTest.class
