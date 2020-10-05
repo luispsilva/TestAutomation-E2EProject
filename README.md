@@ -15,3 +15,7 @@ Test Automation project using Selenium, Maven, TestNG, Jenkins, Extent Reports, 
 
 <h2>Jenkins Parameters to Choose Browser Option </h2>
 <img width="950" alt="JenkinsParameters" src="https://user-images.githubusercontent.com/53864826/95126958-a1898880-072d-11eb-9985-b4994e1116a1.png">
+
+<h2>Jenkins Test Fail</h2>
+<img width="952" alt="Jenkins_TestFail" src="https://user-images.githubusercontent.com/53864826/95127096-d1389080-072d-11eb-97c0-62b63dea1552.png">
+
