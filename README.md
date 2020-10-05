@@ -9,3 +9,6 @@ Test Automation project using Selenium, Maven, TestNG, Jenkins, Extent Reports, 
 
 <h2>Maven Execution Test Fail </h2>
 <img width="948" alt="MavenResults_Error" src="https://user-images.githubusercontent.com/53864826/95126723-45beff80-072d-11eb-9b55-c7af5ab885a5.png">
+
+<h2>Maven Execution Tests Passed </h2>
+<img width="947" alt="Maven_TestsPass" src="https://user-images.githubusercontent.com/53864826/95126837-6d15cc80-072d-11eb-8e7f-1d275f586df7.png">
