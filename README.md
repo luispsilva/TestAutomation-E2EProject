@@ -3,3 +3,6 @@ Test Automation project using Selenium, Maven, TestNG, Jenkins, Extent Reports, 
 
 <h2>Extent Report Test Fail With Screenshot</h2>
 <img width="960" alt="ExtentReport_TestFail" src="https://user-images.githubusercontent.com/53864826/95126262-9124de00-072c-11eb-81d0-6760e1eefb31.png">
+
+<h2>Extent Report Tests Passed </h2>
+<img width="957" alt="ExtentReport_TestsPass" src="https://user-images.githubusercontent.com/53864826/95126550-14463400-072d-11eb-960b-1b5af3b8b500.png">
